@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Quiz</title>
+
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'quiz/easy.css' %}">
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="question">
+            What is the capital of the Philippines?
+        </div>
+
+        <button class="btn">A. Manila</button>
+        <button class="btn">B. Cebu</button>
+        <button class="btn">C. Davao</button>
+        <button class="btn">D. Baguio</button>
+
+        <a href="{% url 'home' %}" class="menu-btn main-menu">
+            Main Menu
+        </a>
+    </div>
+
+
+
+</body>
+
+</html>
