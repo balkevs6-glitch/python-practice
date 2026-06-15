@@ -1,0 +1,172 @@
+[
+    {
+        "question": "Which algorithm is used to find the shortest path in a graph?",
+        "choices": [
+            "Bubble Sort",
+            "Dijkstra's Algorithm",
+            "Binary Search",
+            "Merge Sort"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What does SQL stand for?",
+        "choices": [
+            "Structured Query Language",
+            "Simple Query Language",
+            "Sequential Query Language",
+            "Standard Query Language"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What is a primary key used for in a database?",
+        "choices": [
+            "Encrypt data",
+            "Identify records uniquely",
+            "Store passwords",
+            "Format output"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Which operator performs exponentiation in Python?",
+        "choices": [
+            "^",
+            "**",
+            "%",
+            "//"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Which process allocates memory to running programs?",
+        "choices": [
+            "Paging",
+            "Scheduling",
+            "Compiling",
+            "Linking"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What is the time complexity of binary search?",
+        "choices": [
+            "O(n)",
+            "O(log n)",
+            "O(n^2)",
+            "O(1)"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "In networking, what does DNS translate?",
+        "choices": [
+            "IP addresses to domains",
+            "Packets to bytes",
+            "HTTP to HTTPS",
+            "MAC to IP"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Which Python collection stores key-value pairs?",
+        "choices": [
+            "List",
+            "Tuple",
+            "Set",
+            "Dictionary"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Which security model uses user roles and permissions?",
+        "choices": [
+            "Firewall",
+            "RBAC",
+            "SSL",
+            "OAuth"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What is the purpose of version control?",
+        "choices": [
+            "Run code faster",
+            "Track code changes",
+            "Write documentation",
+            "Design UI"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Which of these is a Python web framework?",
+        "choices": [
+            "Django",
+            "React",
+            "Vue",
+            "Angular"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What is the hexadecimal value for decimal 255?",
+        "choices": [
+            "0xFF",
+            "0xAA",
+            "0x0F",
+            "0xF0"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Which of these is a NoSQL database?",
+        "choices": [
+            "MySQL",
+            "PostgreSQL",
+            "MongoDB",
+            "SQLite"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Which machine learning task is classification?",
+        "choices": [
+            "Predicting numeric values",
+            "Grouping similar items",
+            "Assigning labels",
+            "Reducing dimensions"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "In object-oriented programming, what is inheritance?",
+        "choices": [
+            "A type of loop",
+            "Sharing methods between classes",
+            "A database query",
+            "A memory error"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Which Python keyword defines a generator?",
+        "choices": [
+            "yield",
+            "return",
+            "async",
+            "lambda"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What is the main purpose of normalization in databases?",
+        "choices": [
+            "Increase storage",
+            "Avoid duplicate data",
+            "Speed up graphics",
+            "Encrypt text"
+        ],
+        "answer": "B"
+    }
+]

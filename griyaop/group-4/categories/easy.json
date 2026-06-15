@@ -1,0 +1,402 @@
+[
+    {
+        "question": "What does HCI stand for?",
+        "choices": [
+            "Human-Computer Interface",
+            "Human-Computer Interaction",
+            "Highly Complex Interface",
+            "Human-Centric Integration"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Which discipline is NOT typically a core part of HCI?",
+        "choices": [
+            "Computer Science",
+            "Psychology",
+            "Civil Engineering",
+            "Design"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "The primary goal of HCI is to improve:",
+        "choices": [
+            "Computer processing speed",
+            "Usability",
+            "Network bandwidth",
+            "Hardware durability"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "UI stands for:",
+        "choices": [
+            "User Integration",
+            "Universal Interface",
+            "User Interface",
+            "Unified Input"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "UX stands for:",
+        "choices": [
+            "User Experience",
+            "Universal Execution",
+            "Unique Experience",
+            "User Expectation"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Which refers to how easily users can learn and use a system?",
+        "choices": [
+            "Scalability",
+            "Usability",
+            "Reliability",
+            "Portability"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "A physical device used to input data is called:",
+        "choices": [
+            "Output Device",
+            "Input Device",
+            "Storage Device",
+            "Network Device"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Which of the following is an output device?",
+        "choices": [
+            "Keyboard",
+            "Mouse",
+            "Microphone",
+            "Monitor"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "What is persona in HCI?",
+        "choices": [
+            "A type of software bug",
+            "A fictional character representing a user type",
+            "A hardware specification",
+            "A design tool"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Which interface type uses icons and menus?",
+        "choices": [
+            "Command Line Interface",
+            "Graphical User Interface",
+            "Natural Language Interface",
+            "Touch Interface"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What is the correct file extension for Python files?",
+        "choices": [
+            ".pt",
+            ".py",
+            ".pyt",
+            ".python"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "How do you print Hello World in Python?",
+        "choices": [
+            "echo(Hello World)",
+            "p(Hello World)",
+            "print(Hello World)",
+            "System.out.print(Hello World)"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Which character is used for a single-line comment in Python?",
+        "choices": [
+            "//",
+            "/*",
+            "#",
+            "--"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "How do you create a variable with value 5?",
+        "choices": [
+            "x = 5",
+            "int x = 5",
+            "x := 5",
+            "num x = 5"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Which function shows the data type?",
+        "choices": [
+            "typeof(x)",
+            "typeOf(x)",
+            "type(x)",
+            "typeof x"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Which is a valid variable name?",
+        "choices": [
+            "2myvar",
+            "my-var",
+            "my_var",
+            "my var"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "How do you define a function in Python?",
+        "choices": [
+            "function my_func()",
+            "def my_func():",
+            "create my_func()",
+            "def my_func"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Which data type is True/False?",
+        "choices": [
+            "Boolean",
+            "String",
+            "Integer",
+            "Float"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What is the output of 10/2?",
+        "choices": [
+            "5",
+            "5.0",
+            "10/2",
+            "2.5"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Which operator is exponent?",
+        "choices": [
+            "^",
+            "**",
+            "%",
+            "//"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "A collection of distinct objects is called a:",
+        "choices": [
+            "Function",
+            "Matrix",
+            "Set",
+            "Sequence"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "The symbol ∪ represents:",
+        "choices": [
+            "Intersection",
+            "Union",
+            "Subset",
+            "Complement"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "The symbol ∩ represents:",
+        "choices": [
+            "Intersection",
+            "Union",
+            "Subset",
+            "Complement"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "If a set has 3 elements, how many subsets?",
+        "choices": [
+            "3",
+            "6",
+            "8",
+            "9"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "A statement always true is called:",
+        "choices": [
+            "Contradiction",
+            "Tautology",
+            "Fallacy",
+            "Contingency"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "OR operator symbol is:",
+        "choices": [
+            "∨",
+            "∧",
+            "¬",
+            "→"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Negation of p is:",
+        "choices": [
+            "p ∨ q",
+            "p → q",
+            "¬p",
+            "p ↔ q"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "AND operator symbol is:",
+        "choices": [
+            "∨",
+            "∧",
+            "¬",
+            "→"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "A graph consists of:",
+        "choices": [
+            "Points and lines",
+            "Vertices and edges",
+            "Nodes and networks",
+            "Dots and dashes"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Directed graph edges have:",
+        "choices": [
+            "Colors",
+            "Weights",
+            "Directions",
+            "Thickness"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "CPU stands for:",
+        "choices": [
+            "Central Process Unit",
+            "Computer Personal Unit",
+            "Central Processing Unit",
+            "Central Processor Unit"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "RAM stands for:",
+        "choices": [
+            "Random Access Memory",
+            "Read Access Memory",
+            "Run All Memory",
+            "Random Allocation Memory"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Example of system software:",
+        "choices": [
+            "Microsoft Word",
+            "Operating System",
+            "Web Browser",
+            "Media Player"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Physical parts of computer:",
+        "choices": [
+            "Software",
+            "Hardware",
+            "Firmware",
+            "Malware"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Global network system:",
+        "choices": [
+            "Intranet",
+            "Extranet",
+            "Internet",
+            "Ethernet"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "HTML stands for:",
+        "choices": [
+            "Hyper Text Markup Language",
+            "High Tech Machine Learning",
+            "Hyperlink Text Markup Language",
+            "Home Tool Markup Language"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Small network area:",
+        "choices": [
+            "WAN",
+            "LAN",
+            "MAN",
+            "PAN"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "1 byte = how many bits?",
+        "choices": [
+            "4",
+            "8",
+            "16",
+            "32"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Phishing is a:",
+        "choices": [
+            "Hardware failure",
+            "Software bug",
+            "Cyberattack",
+            "Network protocol"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Non-volatile memory:",
+        "choices": [
+            "RAM",
+            "Cache",
+            "ROM",
+            "Registers"
+        ],
+        "answer": "C"
+    }
+]

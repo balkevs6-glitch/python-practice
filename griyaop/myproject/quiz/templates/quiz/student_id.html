@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Number Form</title>
+
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'quiz/student_id.css' %}">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Enter Student Number</h1>
+        <form method="post" action="{% url 'student_id' %}">
+            {% csrf_token %}
+            <input type="text" name="student_id" placeholder="Ex: 2025-04321" required>
+
+            <form action="{% url 'quiz' %}" method="get">
+                <button type="submit" class="form-btn">Submit</button>
+            </form>
+
+            <button type="button" class="back-btn" onclick="history.back()">Back</button>
+        </form>
+    </div>
+</body>
+
+</html>

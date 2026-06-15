@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Main Menu</title>
+
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'quiz/home.css' %}">
+</head>
+
+<body>
+
+    <div class="container">
+        <h1>Main Menu</h1>
+
+        <!-- LOADER -->
+        <div class="loader" id="loader">
+            <div class="square" id="sq1"></div>
+            <div class="square" id="sq2"></div>
+            <div class="square" id="sq3"></div>
+            <div class="square" id="sq4"></div>
+            <div class="square" id="sq5"></div>
+            <div class="square" id="sq6"></div>
+            <div class="square" id="sq7"></div>
+            <div class="square" id="sq8"></div>
+            <div class="square" id="sq9"></div>
+        </div>
+
+        <!-- BUTTONS -->
+        <div id="menu-buttons">
+
+            <a href="#" class="menu-btn" onclick="startLoading(event)">
+                Play Game
+            </a>
+
+            <a href="#" class="menu-btn" onclick="loadLeaderboard(event)">
+                Leaderboard
+            </a>
+
+            <button onclick="confirmExit()" class="exit-btn">
+                Exit
+            </button>
+
+        </div>
+    </div>
+
+    <script>
+        function startLoading(event) {
+            event.preventDefault();
+
+            // show loader
+            document.getElementById("loader").style.display = "block";
+
+            // hide buttons
+            document.getElementById("menu-buttons").style.display = "none";
+
+            // redirect after 2 seconds
+            setTimeout(() => {
+                window.location.href = "{% url 'student_id' %}";
+            }, 500);
+        }
+
+
+    </script>
+    <script>
+        function loadLeaderboard(event) {
+            event.preventDefault();
+
+            // show loader
+            document.getElementById("loader").style.display = "block";
+
+            // hide buttons
+            document.getElementById("menu-buttons").style.display = "none";
+
+            // redirect after 2 seconds
+            setTimeout(() => {
+                window.location.href = "{% url 'leaderboard' %}";
+            }, 500);
+        }
+
+        function confirmExit() {
+            const exit = confirm("Are you sure you want to exit?");
+            if (exit) {
+                window.close();
+            }
+        }
+    </script>
+
+</body>
+
+</html>

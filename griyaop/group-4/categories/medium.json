@@ -1,0 +1,162 @@
+[
+    {
+        "question": "Which data structure uses FIFO order?",
+        "choices": [
+            "Stack",
+            "Queue",
+            "Tree",
+            "Graph"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What does CSS stand for?",
+        "choices": [
+            "Cascading Style Sheets",
+            "Computer Style System",
+            "Control Style Sheets",
+            "Cascading System Sheets"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Which loop will execute at least once?",
+        "choices": [
+            "for",
+            "while",
+            "do-while",
+            "foreach"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What is the output of len([1, 2, 3]) in Python?",
+        "choices": [
+            "2",
+            "3",
+            "4",
+            "Error"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Which HTML tag creates a hyperlink?",
+        "choices": [
+            "<a>",
+            "<link>",
+            "<href>",
+            "<url>"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What is the keyword to define a function in Python?",
+        "choices": [
+            "fun",
+            "def",
+            "function",
+            "proc"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What is the binary value of decimal 5?",
+        "choices": [
+            "101",
+            "110",
+            "011",
+            "100"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Which protocol is used to send email?",
+        "choices": [
+            "HTTP",
+            "FTP",
+            "SMTP",
+            "SSH"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What does UX stand for?",
+        "choices": [
+            "User Experience",
+            "User Extension",
+            "Unified Experience",
+            "Universal Execution"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "In CSS, which property changes text color?",
+        "choices": [
+            "font-color",
+            "text-color",
+            "color",
+            "foreground"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Which keyword is used to create a class in Python?",
+        "choices": [
+            "class",
+            "struct",
+            "object",
+            "type"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "An IP address is used to identify a: ",
+        "choices": [
+            "Computer program",
+            "Network device",
+            "Database",
+            "Web page"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Which component is part of the CPU?",
+        "choices": [
+            "RAM",
+            "ALU",
+            "Hard Drive",
+            "Monitor"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What does API stand for?",
+        "choices": [
+            "Application Programming Interface",
+            "Advanced Process Integration",
+            "Automatic Program Input",
+            "Application Protocol Internet"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Which device is used for output?",
+        "choices": [
+            "Printer",
+            "Keyboard",
+            "Scanner",
+            "Microphone"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Which is a markup language?",
+        "choices": [
+            "Python",
+            "HTML",
+            "Java",
+            "C++"
+        ],
+        "answer": "B"
+    }
+]
